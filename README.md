@@ -1,2 +1,2 @@
 # Fan-Page-The-Last-Of-Us
-Primo Progetto non online, durante prima fase dell'accademia Steve Jobs Academy
+First offline project, during the first phase of the Steve Jobs Academy
